@@ -1,0 +1,4 @@
+rm -rf ~/.nedit
+mkdir ~/.nedit
+git clone git@github.com:mlin/dotnedit ~/.nedit
+
